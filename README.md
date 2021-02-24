@@ -1,2 +1,2 @@
 # learnplusplus
-I have created my first webpage, in that i used concept of Media Queries to make the webpage responsive.
+This is my first responsive webpage. In this, I used concept of Media Queries to make the webpage responsive.
